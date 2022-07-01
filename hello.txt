@@ -7,5 +7,10 @@ Wellocome to Sdj.com aaaaaaaaaaaaaaaa
 Wellocome to Sdj.com
 Wellocome to Sdj.com
 Wellocome to Sdj.com
+<<<<<<< HEAD
 Wellocome to Sdj.com master test
 Wellocome to Sdj.com
+=======
+Wellocome to Sdj.com
+Wellocome to Sdj.com hot-fix test
+>>>>>>> hot-fix
